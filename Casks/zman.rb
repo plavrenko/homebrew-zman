@@ -1,10 +1,10 @@
 cask "zman" do
-  version "1.2.0"
-  sha256 "f6502319e2563250f8763113774ded098d0409ed4dd6ea94b7a579fdf0d3ca9f"
+  version "1.2.1"
+  sha256 "1aec03e42af25191463adfd1aadde1722c5d6132ec45a0960a849e8199d79348"
 
-  url "https://github.com/plavrenko/zman/releases/download/v1.2.0/Zman-claude-1.2.0.zip"
+  url "https://github.com/plavrenko/zman/releases/download/v1.2.1/Zman-claude-1.2.1.zip"
   name "Zman"
-  desc "macOS utility that overlays Calendar.app when timezone mismatches are detected"
+  desc "Highlights Calendar.app when viewing timezone differs from team timezone"
   homepage "https://github.com/plavrenko/zman"
 
   depends_on macos: ">= :tahoe"
