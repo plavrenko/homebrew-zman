@@ -1,8 +1,8 @@
 cask "zman" do
-  version "1.2.1"
-  sha256 "1aec03e42af25191463adfd1aadde1722c5d6132ec45a0960a849e8199d79348"
+  version "1.2.2"
+  sha256 "a6b582b0e74ba3912e75125219b743d87491039650a7d12e468d8ee3938ff2b1"
 
-  url "https://github.com/plavrenko/zman/releases/download/v1.2.1/Zman-claude-1.2.1.zip"
+  url "https://github.com/plavrenko/zman/releases/download/v1.2.2/Zman-claude-1.2.2.zip"
   name "Zman"
   desc "Highlights Calendar.app when viewing timezone differs from team timezone"
   homepage "https://github.com/plavrenko/zman"
